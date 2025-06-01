@@ -1,0 +1,6 @@
+selenium
+python-dotenv
+ffmpeg-python
+sounddevice
+vosk
+requests
